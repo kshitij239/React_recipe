@@ -1,0 +1,30 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.678);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: burlywood;
+    align-items: center;
+    min-width: 40%;
+
+}
+
+.image{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.text{
+    font-size: medium ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
+
+.title{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
